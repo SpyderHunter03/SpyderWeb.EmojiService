@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>SpyderWeb.EmojiService</PackageId>
+    <Version>0.0.1</Version>
+    <Title>SpyderWeb.EmojiService</Title>
+    <Authors>SpyderHunter03</Authors>
+    <Description>This package is for use with the SpyderWeb Twitch/Discord Bot.  It is intended to be used to use emoji's with your various modules.</Description>
+    <PackageTags>Discord;Bot;SpyderWeb</PackageTags>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="2.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>

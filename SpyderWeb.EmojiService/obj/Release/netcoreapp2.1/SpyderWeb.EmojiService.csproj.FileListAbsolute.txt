@@ -1,0 +1,9 @@
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\bin\Release\netcoreapp2.1\SpyderWeb.EmojiService.deps.json
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\bin\Release\netcoreapp2.1\SpyderWeb.EmojiService.dll
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\bin\Release\netcoreapp2.1\SpyderWeb.EmojiService.pdb
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\obj\Release\netcoreapp2.1\SpyderWeb.EmojiService.csprojAssemblyReference.cache
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\obj\Release\netcoreapp2.1\SpyderWeb.EmojiService.csproj.CoreCompileInputs.cache
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\obj\Release\netcoreapp2.1\SpyderWeb.EmojiService.AssemblyInfoInputs.cache
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\obj\Release\netcoreapp2.1\SpyderWeb.EmojiService.AssemblyInfo.cs
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\obj\Release\netcoreapp2.1\SpyderWeb.EmojiService.dll
+C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\obj\Release\netcoreapp2.1\SpyderWeb.EmojiService.pdb

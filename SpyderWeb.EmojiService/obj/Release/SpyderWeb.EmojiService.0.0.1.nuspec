@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SpyderWeb.EmojiService</id>
+    <version>0.0.1</version>
+    <title>SpyderWeb.EmojiService</title>
+    <authors>SpyderHunter03</authors>
+    <owners>SpyderHunter03</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package is for use with the SpyderWeb Twitch/Discord Bot.  It is intended to be used to use emoji's with your various modules.</description>
+    <tags>Discord Bot SpyderWeb</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Discord.Net" version="2.0.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\spyde\source\repos\SpyderWeb.EmojiService\SpyderWeb.EmojiService\bin\Release\netcoreapp2.1\SpyderWeb.EmojiService.dll" target="lib\netcoreapp2.1\SpyderWeb.EmojiService.dll" />
+  </files>
+</package>
